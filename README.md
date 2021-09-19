@@ -29,6 +29,6 @@ Rode a aplicação com o Target sendo o seu celular.
 Também é possível gerar uma APK e instalar direto no Android, mas é necessário habilitar uma opção que baixa a segurança do Android, então não recomendo.
 
 _obs: esse projeto é apenas uma brincadeira usando Requsições HTTP, Spring Boot, Android, Powershell para um propósito simples portanto ele só funciona na sua 
-rede local, ou seja, o seu PC e o seu celular precisam estar na mesma rede.
+rede local, ou seja, o seu PC e o seu celular precisam estar na mesma rede._
 
-Você pode checar se esta rodando pois vai ter um "java.exe" rodando no seu gerenciado de tarefas_
+_Você pode checar se esta rodando pois vai ter um "java.exe" rodando no seu gerenciado de tarefas_
