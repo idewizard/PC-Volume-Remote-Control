@@ -3,8 +3,8 @@
 
 
 **Como usar**: Existem **duas** pastas no repositório
-- RemoteControl: Aplicação Spring que deve ser rodada no PC (código fonte)
-- voume-control: Aplicação Android que deve ser instalada no Android (código fonte)
+- voume-control: Aplicação Spring que deve ser rodada no PC (código fonte)
+- RemoteControl: Aplicação Android que deve ser instalada no Android (código fonte)
 
 # Parte do PC
 Baixe a pasta *voume-control* (eu sei 😒) e importe ela como projeto maven na IDE de sua preferência (eu recomendo Intellij) e gere a sua JAR.
