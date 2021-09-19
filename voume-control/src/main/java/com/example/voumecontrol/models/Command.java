@@ -12,4 +12,8 @@ public class Command {
                 "command='" + command + '\'' +
                 '}';
     }
+    
+    public String getCommand() {
+		return command;
+	}
 }
