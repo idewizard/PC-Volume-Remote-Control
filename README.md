@@ -12,6 +12,9 @@
 
 Baixe a pasta *voume-control* (eu sei 😒) e importe ela como projeto maven na IDE de sua preferência (eu recomendo Intellij) e gere a sua JAR.
 use o comando "shell:startup" no autorun do (Windows+R) e cole um atalho para o arquivo JAR.
+ou pode usar um script que rode direto basta usar o comando "java -jar nome_da_sua_jar.jar" e rodar esse script no startup do windows.
+_obs: veja as portas configuradas (atual é 8089)!
+
 
 
 # Parte do Android
@@ -26,4 +29,6 @@ Rode a aplicação com o Target sendo o seu celular.
 Também é possível gerar uma APK e instalar direto no Android, mas é necessário habilitar uma opção que baixa a segurança do Android, então não recomendo.
 
 _obs: esse projeto é apenas uma brincadeira usando Requsições HTTP, Spring Boot, Android, Powershell para um propósito simples portanto ele só funciona na sua 
-rede local, ou seja, o seu PC e o seu celular precisam estar na mesma rede._
+rede local, ou seja, o seu PC e o seu celular precisam estar na mesma rede.
+
+Você pode checar se esta rodando pois vai ter um "java.exe" rodando no seu gerenciado de tarefas_
